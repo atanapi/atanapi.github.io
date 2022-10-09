@@ -8,3 +8,17 @@ For example, the transaction speed of Atanapi is 120 times faster than Bitcoin, 
 
 <small>** <a name="bitcointalk">[1]</a>: [Bitcointalk: [ANN] Atanapi [Ghostrider] Launching 2022/10/10 17:00 GMT+7](#)
 </small>
+
+Specifications
+--------------
+| | |
+------------|------------
+Symbol: | NAPI
+PoW algorithm: | Ghostrider
+Premine: | None
+Block time: | `120` Seconds
+Block reward: | `2000` NAPI
+Block distribution: | `70%` Miner, `25% Smartnode`, `5%` Exchange
+Halving: | Every `200,000` Blocks
+Port: | 30001
+Rpc: | 30002
