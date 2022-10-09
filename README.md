@@ -22,3 +22,15 @@ Block distribution: | `70%` Miner, `25% Smartnode`, `5%` Exchange
 Halving: | Every `200,000` Blocks
 Port: | 30001
 Rpc: | 30002
+
+Wallet
+------
+**Download**
+- <img src="images/icon_win.png" width="18"> Win64: building
+- <img src="images/icon_win.png" width="18"> Win32: building
+- <img src="images/icon_linux.png" width="18"> Linux64 (x86_64): building
+- <img src="images/icon_linux.png" width="18"> Linux32 (i686): building
+- <img src="images/icon_osx.png" width="18"> OSX (Apple macOS): building
+- <img src="images/icon_arm.png" width="18"> ARM64 (aarch64): building
+- <img src="images/icon_arm.png" width="18"> ARM32 (arm): building
+- Source: building
