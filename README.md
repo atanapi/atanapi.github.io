@@ -85,11 +85,11 @@ coming soon
 
 Community
 ---------
-- Telegram: it's coming
-- Twitter: it's coming
+- Telegram: https://t.me/atanapicoin
+- Twitter: https://twitter.com/atanapicoin
 - Bitcointalk: it's coming
-- Reddit: it's coming
-- Discord: it's coming
+- Reddit: https://www.reddit.com/r/atanapicoin/
+- Discord: https://discord.gg/wqxHQsCpFd
 
 License
 -------
