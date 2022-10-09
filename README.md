@@ -27,6 +27,7 @@ Block Reward Stucture
 | Blocks        | Height           | Reward  |
 | ------------- |:-------------:| -----:|
 | 0      | 840 | 84 |
+| 840 | 2000000 | 2000 |
 
 Wallet
 ------
