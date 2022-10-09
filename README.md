@@ -15,13 +15,19 @@ Specifications
 ------------|------------
 Symbol: | NAPI
 PoW algorithm: | Ghostrider
-Premine: | None
 Block time: | `120` Seconds
 Block reward: | `2000` NAPI
 Block distribution: | `70%` Miner, `25% Smartnode`, `5%` Exchange
 Halving: | Every `200,000` Blocks
 Port: | 30001
 Rpc: | 30002
+
+Block Reward Stucture
+--------------
+| | |
+------------|------------
+Block | Height | Rewards
+0 | 840 | 84
 
 Wallet
 ------
