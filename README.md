@@ -34,3 +34,44 @@ Wallet
 - <img src="images/icon_arm.png" width="18"> ARM64 (aarch64): building
 - <img src="images/icon_arm.png" width="18"> ARM32 (arm): building
 - Source: building
+
+Pool
+----
+Please contact us if you have a new mining pool.
+- Atanapi Pool: it's coming
+
+Explorer
+--------
+- Official Explorer: it's coming
+
+Service
+-------
+- API Addressindex: it's coming
+- Faucet: it's coming
+
+3rd party wallet
+----------------
+- Android Wallet: it's coming
+- Web Wallet: it's coming
+- Paper Wallet: it's coming
+- Wallet Extension for Google Chrome: it's coming
+- Wallet Extension for Firefox: it's coming
+
+Exchange
+--------
+coming soon
+
+Community
+---------
+- Telegram: it's coming
+- Twitter: it's coming
+- Bitcointalk: it's coming
+- Reddit: it's coming
+- Discord: it's coming
+
+License
+-------
+- Copyright © 2009-2010 Satoshi Nakamoto
+- Copyright © 2009-2014 Bitcoin Core developers
+- Copyright © 2014-2020 The Dash Core developers
+- Copyright © 2022 The Atanapi developers
