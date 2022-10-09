@@ -24,10 +24,9 @@ Rpc: | 30002
 
 Block Reward Stucture
 ------------------------
-| | |
-------------|------------
-Block | Height | Rewards
-0 | 840 | 84
+| Blocks  | Height | Rewards |
+| ------------- | ------------- |
+| 0  | 840  | 84 |
 
 Wallet
 ------
