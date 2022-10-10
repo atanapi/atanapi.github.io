@@ -124,9 +124,9 @@
 					</h1>
 					<h4>
 					</h4>
-					<!--<div id="height" class="d-block mb-2">
+					<div id="height" class="d-block mb-2">
 						Current height is <span class="loading">loading...</span> <a href="#" class="current d-none" target="_blank">0</a> (<span class="passed">0</span> blocks since you open this page)
-					</div>-->
+					</div>
 					<div class="links mb-2">
 						<a href="#" target="_blank">DOWNLOAD</a>
 						<a href="#contacts" class="scroll">CONTACTS</a>
@@ -191,14 +191,14 @@
 			<a href="https://www.reddit.com/r/atanapicoin/" target="_blank" rel="nofollow">Reddit</a>
 		</footer>
 
-		<!--<script>
+		<script>
 			var height_start = 0
 
 			function stats(first = false) {
 				Promise.resolve($.ajax({
-					url: "#",
+					url: "https://api.atanapi.org/info",
 				})).then(function(data) {
-					$("#height .current").attr("href", "#" + data["result"]["bestblockhash"])
+					$("#height .current").attr("href", "https://explorer.atanapi.org/block/" + data["result"]["bestblockhash"])
 					$("#height .current").text(data["result"]["blocks"])
 					if (first) {
 						height_start = data["result"]["blocks"]
@@ -223,6 +223,6 @@
 					stats()
 				}, 4000);
 			})
-		</script>-->
+		</script>
 	</body>
 </html>
