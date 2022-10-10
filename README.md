@@ -17,7 +17,7 @@ Symbol: | NAPI
 PoW algorithm: | Ghostrider
 Block time: | `120` Seconds
 Block reward: | `2000` NAPI
-Block distribution: | `70%` Miner, `25% Smartnode`, `5%` Exchange
+Block distribution: | `70%` Miner, `25% Smartnode`, `4%` Exchange, `1%` Community
 Halving: | Every `200,000` Blocks
 Port: | 30001
 Rpc: | 30002
