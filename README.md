@@ -64,7 +64,7 @@ Please contact us if you have a new mining pool.
 
 Explorer
 --------
-- Official Explorer: it's coming
+- Official Explorer: https://explorer.atanapi.org/
 
 Service
 -------
