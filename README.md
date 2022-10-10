@@ -68,7 +68,7 @@ Explorer
 
 Service
 -------
-- API Addressindex: https://api.atanapi.org
+- API Addressindex: https://api.atanapi.org/
 - Faucet: it's coming
 
 3rd party wallet
