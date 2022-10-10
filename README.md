@@ -48,9 +48,9 @@ Block Reward Stucture
 Wallet
 ------
 **Download**
-- <img src="images/icon_win.png" width="18"> Win64: building
+- <img src="images/icon_win.png" width="18"> Win64: https://github.com/atanapi/atanapi-core/releases/download/v1.0.0.1/atanapicore-1.0.0-win64.zip
 - <img src="images/icon_win.png" width="18"> Win32: building
-- <img src="images/icon_linux.png" width="18"> Linux64 (x86_64): building
+- <img src="images/icon_linux.png" width="18"> Linux64 (x86_64): https://github.com/atanapi/atanapi-core/releases/download/v1.0.0.1/atanapicore-1.0.0-x86_64-pc-linux-gnu.tar.gz
 - <img src="images/icon_linux.png" width="18"> Linux32 (i686): building
 - <img src="images/icon_osx.png" width="18"> OSX (Apple macOS): building
 - <img src="images/icon_arm.png" width="18"> ARM64 (aarch64): building
@@ -68,7 +68,7 @@ Explorer
 
 Service
 -------
-- API Addressindex: it's coming
+- API Addressindex: https://api.atanapi.org
 - Faucet: it's coming
 
 3rd party wallet
