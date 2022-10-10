@@ -55,7 +55,7 @@ Wallet
 - <img src="images/icon_osx.png" width="18"> OSX (Apple macOS): building
 - <img src="images/icon_arm.png" width="18"> ARM64 (aarch64): building
 - <img src="images/icon_arm.png" width="18"> ARM32 (arm): building
-- Source: building
+- Source: https://github.com/atanapi/atanapi-core
 
 Pool
 ----
