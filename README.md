@@ -16,41 +16,21 @@ Specifications
 Symbol: | NAPI
 PoW algorithm: | Ghostrider
 Block time: | `120` Seconds
-Block reward: | `2000` NAPI
+Block reward: | `5000` NAPI
 Block distribution: | `70%` Miner, `25% Smartnode`, `4%` Exchange, `1%` Community
 Halving: | Every `200,000` Blocks
-Port: | 30001
-Rpc: | 30002
+Smartnode start: | `5000` Blocks
+Port: | 30002
+Rpc: | 30001
 
-Block Reward Stucture
-------------------------
-| Blocks        | Height           | Reward  |
-| ------------- |:-------------:| -----:|
-| 0      | 840 | `84` NAPI|
-| 840 | 2000000 | `2000` NAPI|
-| 2000000 | 4000000 | `1600` NAPI|
-| 4000000 | 6000000 | `1400` NAPI|
-| 6000000 | 8000000 | `1000` NAPI|
-| 8000000 | 10000000 | `800` NAPI|
-| 10000000 | 12000000 | `400` NAPI|
-| 12000000 | 14000000 | `200` NAPI|
-| 14000000 | 16000000 | `180` NAPI|
-| 16000000 | 18000000 | `160` NAPI|
-| 18000000 | 20000000 | `140` NAPI|
-| 20000000 | 22000000 | `120` NAPI|
-| 22000000 | 24000000 | `100` NAPI|
-| 24000000 | 26000000 | `84` NAPI|
-| 26000000 | 28000000 | `60` NAPI|
-| 28000000 | 30000000 | `40` NAPI|
-| 30000000 | 32000000 | `20` NAPI|
-| 32000000 | 32000000 | `0` NAPI|
+
 
 Wallet
 ------
 **Download**
-- <img src="images/icon_win.png" width="18"> Win64: https://github.com/atanapi/atanapi-core/releases/download/v1.0.0.1/atanapicore-1.0.0-win64.zip
+- <img src="images/icon_win.png" width="18"> Win64: https://github.com/atanapi/atanapi-core/releases/download/v1.0.0.2/atanapicore-1.0.0-win64-setup.exe
 - <img src="images/icon_win.png" width="18"> Win32: building
-- <img src="images/icon_linux.png" width="18"> Linux64 (x86_64): https://github.com/atanapi/atanapi-core/releases/download/v1.0.0.1/atanapicore-1.0.0-x86_64-pc-linux-gnu.tar.gz
+- <img src="images/icon_linux.png" width="18"> Linux64 (x86_64): https://github.com/atanapi/atanapi-core/releases/download/v1.0.0.2/atanapi-x86_64-pc-linux-gnu.tar.gz
 - <img src="images/icon_linux.png" width="18"> Linux32 (i686): building
 - <img src="images/icon_osx.png" width="18"> OSX (Apple macOS): building
 - <img src="images/icon_arm.png" width="18"> ARM64 (aarch64): building
