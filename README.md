@@ -40,7 +40,9 @@ Wallet
 Pool
 ----
 Please contact us if you have a new mining pool.
-- Atanapi Pool: it's coming
+- Rplant Pool: https://pool.rplant.xyz/#atanapi
+- Cryptopool: https://cryptopool.one/
+- Cpumining: https://cpumining.club/
 
 Explorer
 --------
@@ -76,4 +78,6 @@ License
 - Copyright © 2009-2010 Satoshi Nakamoto
 - Copyright © 2009-2014 Bitcoin Core developers
 - Copyright © 2014-2020 The Dash Core developers
+- Copyright © 2022 The Raptoreum Team developers
+- Copyright © 2022 The Bitoreum Team developers
 - Copyright © 2022 The Atanapi developers
