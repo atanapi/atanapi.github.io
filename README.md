@@ -81,7 +81,7 @@ Service
 
 Exchange
 --------
-coming soon
+- OOBL.INK: https://oobl.ink/exchange/NAPI_USDT.BEP20
 
 Community
 ---------
