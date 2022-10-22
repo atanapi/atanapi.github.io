@@ -52,6 +52,7 @@ Service
 -------
 - API Addressindex: https://api.atanapi.org/
 - Faucet: it's coming
+- Atanapi Social content creator: https://atanapi.online
 
 3rd party wallet
 ----------------
@@ -63,7 +64,7 @@ Service
 
 Exchange
 --------
-- OOBL.INK: https://oobl.ink/exchange/NAPI_USDT.BEP20
+- OOBL.INK: -
 
 Community
 ---------
